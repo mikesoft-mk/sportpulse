@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sportpulse/static/css/main.1b6e58d4.css",
-    "main.js": "/sportpulse/static/js/main.1ed15caa.js",
+    "main.js": "/sportpulse/static/js/main.c1009958.js",
     "static/js/453.fb30c5c5.chunk.js": "/sportpulse/static/js/453.fb30c5c5.chunk.js",
     "static/media/Banner1.png": "/sportpulse/static/media/Banner1.cb1218acdd3f8ffab1d2.png",
     "static/media/Banner3.jpg": "/sportpulse/static/media/Banner3.78f90217e61e8b9cf557.jpg",
@@ -27,11 +27,11 @@
     "static/media/whatsapp.svg": "/sportpulse/static/media/whatsapp.6b1cea7ff7a64568d1aa948a79a5d8d7.svg",
     "index.html": "/sportpulse/index.html",
     "main.1b6e58d4.css.map": "/sportpulse/static/css/main.1b6e58d4.css.map",
-    "main.1ed15caa.js.map": "/sportpulse/static/js/main.1ed15caa.js.map",
+    "main.c1009958.js.map": "/sportpulse/static/js/main.c1009958.js.map",
     "453.fb30c5c5.chunk.js.map": "/sportpulse/static/js/453.fb30c5c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b6e58d4.css",
-    "static/js/main.1ed15caa.js"
+    "static/js/main.c1009958.js"
   ]
 }
