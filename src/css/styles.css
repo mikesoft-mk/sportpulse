@@ -1,0 +1,95 @@
+.dim-logo {
+  width: 90px;
+  height: auto;
+}
+.dim-logo2 {
+  width: 50px;
+  height: auto;
+}
+.sticky-content {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0px; /* Se quedará fijo a 20px del borde superior */
+  background-color: transparent;
+  padding: 10px;
+}
+img {
+  width: 100%;
+}
+.banner-desactive {
+  display: none;
+}
+.banner-active {
+  display: block;
+}
+.img-modelo {
+  width: 29.2%;
+  position: absolute;
+  top: 3%;
+  left: 1%;
+}
+
+.img-man {
+  width: 28.4%;
+  position: absolute;
+  top: 0;
+  left: 70%;
+}
+.img-logo {
+  width: 25vh;
+  position: absolute;
+  top: 20vh;
+}
+.dim-boy {
+  width: 100%;
+  height: auto;
+  border-radius: 10px 10px;
+}
+.dim-whatsapp {
+  width: 100%;
+  height: 100%;
+}
+
+.efect-text {
+  position: absolute;
+  display: flex;
+  color: white;
+  top: 100px;
+  width: 100%;
+  height: 98%;
+  background: linear-gradient(
+    to bottom,
+    rgba(44, 87, 148, 0.9),
+    /* Color #00d8e7 con 80% de opacidad */ rgba(17, 30, 76, 0.9)
+      /* Color #ff6347 con 60% de opacidad */
+  );
+  opacity: 0;
+  visibility: hidden;
+  justify-content: center; /* Centra horizontalmente el contenido */
+  align-items: center; /* Centra verticalmente el contenido */
+  text-align: center;
+  transition: all 500ms ease-out;
+}
+.animacion-imagen {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+.animacion-imagen:hover > .efect-text {
+  visibility: visible;
+  opacity: 1;
+  top: 0; /* Mueve el elemento hacia el medio verticalmente */
+  left: 0; /* Mueve el elemento hacia el medio horizontalmente */
+  justify-content: center; /* Centra horizontalmente el contenido */
+  align-items: center; /* Centra verticalmente el contenido */
+  text-align: center;
+  transition: all 500ms ease-out;
+}
+.dim-images {
+  size: 100px;
+}
+.dim-perfil {
+  max-width: 100%;
+  top: 0;
+  left: 0;
+}
