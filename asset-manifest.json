@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/sportpulse/static/css/main.1b6e58d4.css",
+    "main.js": "/sportpulse/static/js/main.1ed15caa.js",
+    "static/js/453.fb30c5c5.chunk.js": "/sportpulse/static/js/453.fb30c5c5.chunk.js",
+    "static/media/Banner1.png": "/sportpulse/static/media/Banner1.cb1218acdd3f8ffab1d2.png",
+    "static/media/Banner3.jpg": "/sportpulse/static/media/Banner3.78f90217e61e8b9cf557.jpg",
+    "static/media/Banner2.png": "/sportpulse/static/media/Banner2.908ae2f277cc1377269d.png",
+    "static/media/Modelo1.png": "/sportpulse/static/media/Modelo1.11053d1e085da8ecee24.png",
+    "static/media/analisis.png": "/sportpulse/static/media/analisis.4f9e2af78f839971789b.png",
+    "static/media/logo-sin-fondo.png": "/sportpulse/static/media/logo-sin-fondo.c211fe8a78bfd4338e86.png",
+    "static/media/logo.png": "/sportpulse/static/media/logo.c211fe8a78bfd4338e86.png",
+    "static/media/Man.png": "/sportpulse/static/media/Man.9e45ae2af06da6bd5879.png",
+    "static/media/mision2.jpg": "/sportpulse/static/media/mision2.8779d26589e87c52d4bf.jpg",
+    "static/media/Noticias.jpg": "/sportpulse/static/media/Noticias.2c2edd353d2f202d9dcd.jpg",
+    "static/media/perfil.jpeg": "/sportpulse/static/media/perfil.79af1cd24736be1833cc.jpeg",
+    "static/media/vision2.jpg": "/sportpulse/static/media/vision2.d9b10a3d238e68ac6d09.jpg",
+    "static/media/about.jpg": "/sportpulse/static/media/about.b4b73c877b8d9b2d2421.jpg",
+    "static/media/cobertura.jpg": "/sportpulse/static/media/cobertura.38440df8584914fb874f.jpg",
+    "static/media/about2.jpeg": "/sportpulse/static/media/about2.397c53c948216d7b1f66.jpeg",
+    "static/media/videos.jpg": "/sportpulse/static/media/videos.1d50da93a315b28a92b7.jpg",
+    "static/media/notificacion.jpg": "/sportpulse/static/media/notificacion.46445fdf137fba75970b.jpg",
+    "static/media/MikeSoft.png": "/sportpulse/static/media/MikeSoft.109999f3bfa80aade117.png",
+    "static/media/qr.png": "/sportpulse/static/media/qr.2d1713e1ff033f67a23b.png",
+    "static/media/redes.webp": "/sportpulse/static/media/redes.091f2338812d6811c7f7.webp",
+    "static/media/maps.svg": "/sportpulse/static/media/maps.664e120e15b10ad52af540a5cbf730d0.svg",
+    "static/media/whatsapp.svg": "/sportpulse/static/media/whatsapp.6b1cea7ff7a64568d1aa948a79a5d8d7.svg",
+    "index.html": "/sportpulse/index.html",
+    "main.1b6e58d4.css.map": "/sportpulse/static/css/main.1b6e58d4.css.map",
+    "main.1ed15caa.js.map": "/sportpulse/static/js/main.1ed15caa.js.map",
+    "453.fb30c5c5.chunk.js.map": "/sportpulse/static/js/453.fb30c5c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b6e58d4.css",
+    "static/js/main.1ed15caa.js"
+  ]
+}
